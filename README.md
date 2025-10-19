@@ -1,2 +1,2 @@
-# adaptivegraph
-A system for organizing Adaptive Cards
+# Adaptive Graph
+A system for organizing and presenting Adaptive Cards
